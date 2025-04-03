@@ -18,7 +18,7 @@ O **SOS Vida Animal** é um aplicativo desenvolvido para ajudar na localização
   - Google Maps API (para geolocalização)
   - Firebase Authentication (para autenticação de usuários)
   
-## 🚀 Como Executar o Projeto
+## 📱 Como Executar o Projeto no Android Studio
 ### 📥 Requisitos
 - Android Studio instalado
 - Conta no Firebase configurada
@@ -36,16 +36,19 @@ O **SOS Vida Animal** é um aplicativo desenvolvido para ajudar na localização
 4. Compile e execute no emulador ou em um dispositivo físico.
 
 ## 📷 Capturas de Tela
-- [🖼 Tela de Status](https://drive.google.com/file/d/1wkI07XILVeV8zH8OkCrPw3Frffq9QCZC/view?usp=sharing)
-- [🖼 Tela de Exemplo](https://drive.google.com/file/d/1_7OkLGMRcPR3Jmwh3pnMgewEgS8sxm65/view?usp=sharing)
-- [🖼 Tela de Informação](https://drive.google.com/file/d/1Qn6CuIMDQ1--2g7_AhaQ9xuo4qXsw9dp/view?usp=sharing)
-- [🖼 Tela de Localização](https://drive.google.com/file/d/1SxI1veaH-_kwLKB_Afz7wryZ-R8kx8K2/view?usp=sharing)
-- [🖼 Tela Principal](https://drive.google.com/file/d/1CzVCGIrJ5QsheMVSqFsfyR68IK92NroA/view?usp=sharing)
-- [🖼 Tela de Login](https://drive.google.com/file/d/16kp0XA_E9IqXokuN1gYLw2FS8UMVOBU6/view?usp=sharing)
-- [🖼 Tela de Cadastro](https://drive.google.com/file/d/1-3pqJz3E7GMDN5K5hBy4rm4q7Av2zONy/view?usp=sharing)
+### Android
+<p align="center">
+  <img src="./screenshots/android-login.png" alt="Tela de Login" width="150">&nbsp;
+  <img src="./screenshots/android-cadastro.png" alt="Tela de Cadastro" width="150">&nbsp;
+  <img src="./screenshots/android-home.png" alt="Tela Principal" width="150">
+  <img src="./screenshots/android-info.png" alt="Tela de Informação" width="150">&nbsp;
+  <img src="./screenshots/android-mapa.png" alt="Tela de Localização" width="150">&nbsp;
+  <img src="./screenshots/android-exemplo.png" alt="Tela de Exemplo" width="150">&nbsp;
+  <img src="./screenshots/android-status.png" alt="Tela de Status" width="150">&nbsp;
+</p>
 
 ## 🐶 Contribuição
 Sinta-se à vontade para contribuir com melhorias e novas funcionalidades! Basta abrir um **Pull Request** ou relatar um problema na aba de **Issues**.
 
 ## 📄 Licença
-Este projeto está sob a licença MIT - veja o arquivo **LICENSE** para mais detalhes.
+Este projeto está licenciado sob os termos da **MIT License**. Consulte o arquivo [LICENSE](./LICENSE) para mais detalhes.
